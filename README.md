@@ -1,6 +1,6 @@
 
 
-### About me
+### About me 👩🏻‍💻
 
 🪄  I've been learning programming so that I can bring my ideas to life and I'm absolutely enjoying it. 
 
