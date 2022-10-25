@@ -12,7 +12,7 @@
      
    - An app I developed with two others for more transparancy in working environment: [Architrap](http://architrap.herokuapp.com/)
      
-   - An app I developed to tackle a sustainable mobility issues in Berlin: [Berlin Bicycle Station](https://berlinbikestation.herokuapp.com/)
+   - An app I developed to tackle a sustainable mobility issue in Berlin: [Berlin Bicycle Station](https://berlinbikestation.herokuapp.com/)
 
 👀  I'm interested in [Web3](https://ethereum.org/en/web3/) and excited about how it'll shape our future. 
 
