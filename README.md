@@ -2,6 +2,8 @@
 
 ### About me
 
+🪄  I've been learning programming so that I can bring my ideas into to life.
+
 🎓  Graduated from [Ironhack Web Development Bootcamp](https://www.ironhack.com/en/web-development), where I acquired skills like **HTML | CSS | JavaScript(ES6) | React | ExpressJS | MongoDB | NodeJS | Axios | Handlebar**.
 
 🌱  I’m currently learning **TypeScript | Jest | Solidity | Utility-first CSS**. 
