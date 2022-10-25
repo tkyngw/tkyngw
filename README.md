@@ -2,7 +2,7 @@
 
 ### About me
 
-🪄  I've been learning programming so that I can bring my ideas into to life.
+🪄  I've been learning programming so that I can bring my ideas to life and I'm absolutely enjoying it. 
 
 🎓  Graduated from [Ironhack Web Development Bootcamp](https://www.ironhack.com/en/web-development), where I acquired skills like **HTML | CSS | JavaScript(ES6) | React | ExpressJS | MongoDB | NodeJS | Axios | Handlebar**.
 
@@ -12,7 +12,7 @@
 
    - An app I developed to have fun in learning foreign languages: [Viking Invasion](https://github.com/tkyngw/viking-invasion)
      
-   - An app I developed with two others for more transparancy in working environment: [Architrap](https://github.com/tkyngw/architrap)
+   - An app I developed with two others for more transparency in the working environment: [Architrap](https://github.com/tkyngw/architrap)
      
    - An app I developed to tackle a sustainable mobility issue in Berlin: [Berlin Bicycle Station](https://github.com/tkyngw/berlin-bicycle-parking)
 
